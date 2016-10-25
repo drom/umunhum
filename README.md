@@ -40,3 +40,5 @@ Inspered by: https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji
 [![34](https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Fuji_from_the_mountains_of_Totomi.jpg/290px-The_Fuji_from_the_mountains_of_Totomi.jpg)](34/README.md)
 [![35](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Lake_Suwa_in_the_Shinano_province.jpg/290px-Lake_Suwa_in_the_Shinano_province.jpg)](35/README.md)
 [![36](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ushibori_in_the_Hitachi_province.jpg/290px-Ushibori_in_the_Hitachi_province.jpg)](36/README.md)
+
+[![Creative Commons License](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
