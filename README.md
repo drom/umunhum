@@ -2,6 +2,8 @@
 
 Thirty-six Views of Mount Umunhum
 
+The word “umunhum” is from the Ohlone language and means “resting place of the hummingbird.”
+
 Inspered by: https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji
 
 [![01](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Great_Wave_off_Kanagawa2.jpg/290px-Great_Wave_off_Kanagawa2.jpg)](01 - The Great Wave/README.md)
