@@ -6,7 +6,7 @@ The word “umunhum” is from the Ohlone language and means “resting place of
 
 Inspered by: https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji
 
-[![01](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Great_Wave_off_Kanagawa2.jpg/290px-Great_Wave_off_Kanagawa2.jpg)]("01 - The Great Wave/README.md")
+[![01](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Great_Wave_off_Kanagawa2.jpg/290px-Great_Wave_off_Kanagawa2.jpg)](01%20-%20The%20Great%20Wave/README.md")
 [![02](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Red_Fuji_southern_wind_clear_morning.jpg/290px-Red_Fuji_southern_wind_clear_morning.jpg)](02 - Fine Wind, Clear Morning/README.md)
 [![03](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lightnings_below_the_summit.jpg/290px-Lightnings_below_the_summit.jpg)](03/README.md)
 [![04](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Fuji_seen_through_the_Mannen_bridge_at_Fukagawa.jpg/290px-Fuji_seen_through_the_Mannen_bridge_at_Fukagawa.jpg)](04/README.md)
